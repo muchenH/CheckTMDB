@@ -23,29 +23,29 @@
 
 ```bash
 # Tmdb Hosts Start
-3.165.113.51                tmdb.org
-143.204.194.11              api.tmdb.org
-108.138.217.4               files.tmdb.org
-3.166.244.54                themoviedb.org
-208.31.254.33               api.themoviedb.org
-3.160.188.58                www.themoviedb.org
-13.32.145.101               auth.themoviedb.org
-169.150.249.165             image.tmdb.org
-169.150.249.163             images.tmdb.org
-52.94.225.248               imdb.com
-143.204.84.145              www.imdb.com
+18.244.124.16               tmdb.org
+143.204.194.95              api.tmdb.org
+13.33.45.124                files.tmdb.org
+143.204.194.2               themoviedb.org
+69.63.184.30                api.themoviedb.org
+3.166.244.31                www.themoviedb.org
+13.32.145.59                auth.themoviedb.org
+138.199.9.104               image.tmdb.org
+143.244.50.87               images.tmdb.org
+52.94.237.74                imdb.com
+143.204.179.239             www.imdb.com
 52.94.225.248               secure.imdb.com
-18.245.38.81                s.media-imdb.com
-52.94.237.74                us.dd.imdb.com
-143.204.84.145              www.imdb.to
+13.227.161.130              s.media-imdb.com
+52.94.228.167               us.dd.imdb.com
+3.164.180.201               www.imdb.to
 44.215.137.99               origin-www.imdb.com
-2.17.107.201                ia.media-imdb.com
-108.160.167.165             thetvdb.com
-128.242.240.93              api.thetvdb.com
-2.17.107.209                ia.media-imdb.com
+151.101.89.16               ia.media-imdb.com
+108.160.165.8               thetvdb.com
+31.13.69.245                api.thetvdb.com
+3.164.158.163               ia.media-imdb.com
 146.75.45.16                f.media-amazon.com
-52.222.149.27               imdb-video.media-imdb.com
-# Update time: 2025-09-09T18:14:30+08:00
+3.174.255.44                imdb-video.media-imdb.com
+# Update time: 2025-09-10T06:12:08+08:00
 # IPv4 Update url: https://raw.githubusercontent.com/cnwikee/CheckTMDB/refs/heads/main/Tmdb_host_ipv4
 # IPv6 Update url: https://raw.githubusercontent.com/cnwikee/CheckTMDB/refs/heads/main/Tmdb_host_ipv6
 # Star me: https://github.com/cnwikee/CheckTMDB
@@ -53,27 +53,27 @@
 
 ```
 
-该内容会自动定时更新， 数据更新时间：2025-09-09T18:14:30+08:00
+该内容会自动定时更新， 数据更新时间：2025-09-10T06:12:08+08:00
 
 #### 2.1.2 IPv6地址复制下面的内容
 
 ```bash
 # Tmdb Hosts Start
-2600:9000:2846:2800:10:db24:6940:93a1              tmdb.org
-2600:9000:239f:5000:10:fb02:4000:93a1              api.tmdb.org
-2600:9000:2729:a00:5:da10:7440:93a1                files.tmdb.org
-2600:9000:203b:1200:e:5373:440:93a1                themoviedb.org
-2a03:2880:f10d:83:face:b00c:0:25de                 api.themoviedb.org
-2600:9000:203b:4800:e:5373:440:93a1                www.themoviedb.org
-2600:9000:275b:2c00:16:e4a1:eb00:93a1              auth.themoviedb.org
-2400:52e0:1a01::1115:1                             image.tmdb.org
+2600:9000:279e:7c00:10:db24:6940:93a1              tmdb.org
+2600:9000:20e8:f200:10:fb02:4000:93a1              api.tmdb.org
+2600:9000:235a:fc00:5:da10:7440:93a1               files.tmdb.org
+2600:9000:269a:1e00:e:5373:440:93a1                themoviedb.org
+2a03:2880:f10e:83:face:b00c:0:25de                 api.themoviedb.org
+2600:9000:2555:3c00:e:5373:440:93a1                www.themoviedb.org
+2600:9000:21d1:f200:16:e4a1:eb00:93a1              auth.themoviedb.org
+2400:52e0:1a01::987:1                              image.tmdb.org
 2400:52e0:1a01::907:1                              images.tmdb.org
-2600:1417:e800::17d9:b60                           ia.media-imdb.com
-2a03:2880:f12c:83:face:b00c:0:25de                 thetvdb.com
-2a03:2880:f134:83:face:b00c:0:25de                 api.thetvdb.com
-2a04:4e42:7b::272                                  ia.media-imdb.com
+2600:9000:2680:1000:1d:d7f6:39d5:bd01              ia.media-imdb.com
+2a03:2880:f12d:83:face:b00c:0:25de                 thetvdb.com
+2a03:2880:f10e:83:face:b00c:0:25de                 api.thetvdb.com
+2600:9000:2680:c800:1d:d7f6:39d5:bd01              ia.media-imdb.com
 2a04:4e42:7b::272                                  f.media-amazon.com
-# Update time: 2025-09-09T18:14:30+08:00
+# Update time: 2025-09-10T06:12:08+08:00
 # IPv4 Update url: https://raw.githubusercontent.com/cnwikee/CheckTMDB/refs/heads/main/Tmdb_host_ipv4
 # IPv6 Update url: https://raw.githubusercontent.com/cnwikee/CheckTMDB/refs/heads/main/Tmdb_host_ipv6
 # Star me: https://github.com/cnwikee/CheckTMDB
@@ -81,7 +81,7 @@
 
 ```
 
-该内容会自动定时更新， 数据更新时间：2025-09-09T18:14:30+08:00
+该内容会自动定时更新， 数据更新时间：2025-09-10T06:12:08+08:00
 
 > [!NOTE]
 > 由于项目搭建在Github Aciton，延时数据获取于Github Action 虚拟主机网络环境，请自行测试可用性，建议使用本地网络环境自动设置。
